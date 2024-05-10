@@ -1,6 +1,6 @@
 # Flowchart-Python-Code
 It's a flowchart of Python code
 
-## 사용법
+## Before executing code
 To use Graphviz, you need to install it first.<br>
-Installation code: pip install graphviz
+Installation code : pip install graphviz
